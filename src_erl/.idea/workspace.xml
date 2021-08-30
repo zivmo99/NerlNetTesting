@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="446d05c1-6572-4f86-9c9b-1312b407755c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../src_cpp/cppSANN" beforeDir="false" afterPath="$PROJECT_DIR$/../src_cpp/cppSANN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/input/jsonArch1PC.json" beforeDir="false" afterPath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/input/jsonArch1PC.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/src/Client/clientStatem.erl" beforeDir="false" afterPath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/src/Client/clientStatem.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/src/nerlNetServer_app.erl" beforeDir="false" afterPath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/src/nerlNetServer_app.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/src/source/sourceStatem.erl" beforeDir="false" afterPath="$PROJECT_DIR$/Communication_Layer/http_Nerlserver/src/source/sourceStatem.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlBridge/nerlNetStatem.erl" beforeDir="false" afterPath="$PROJECT_DIR$/erlBridge/nerlNetStatem.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src_py/NerlNetController.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src_py/NerlNetController.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Erlang Gen Statem" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kYw8ILM5IYru4PlBZEwqrW2VxA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="src_erl" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="erlModule init" />
+      <option name="params" value="" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="446d05c1-6572-4f86-9c9b-1312b407755c" name="Default Changelist" comment="" />
+      <created>1605890674992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605890674992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="223" width="426" height="493" key="FileChooserDialogImpl" timestamp="1621771890047">
+      <screen x="72" y="27" width="2486" height="901" />
+    </state>
+    <state x="778" y="256" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1620241006231" />
+    <state x="1022" y="223" key="FileChooserDialogImpl/72.27.2486.901@72.27.2486.901" timestamp="1621771890047" />
+    <state x="412" y="27" width="900" height="717" key="SettingsEditor" timestamp="1627907239814">
+      <screen x="72" y="27" width="1522" height="717" />
+    </state>
+    <state x="412" y="27" width="900" height="717" key="SettingsEditor/72.27.1522.717@72.27.1522.717" timestamp="1627907239814" />
+    <state x="413" y="93" width="900" height="737" key="SettingsEditor/72.27.1528.873@72.27.1528.873" timestamp="1624894795129" />
+    <state x="484" y="107" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1620241012500" />
+    <state x="776" y="467" width="440" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618860566271">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="776" y="467" width="440" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1618860566271" />
+    <state x="578" y="89" width="796" height="624" key="find.popup" timestamp="1627916220456">
+      <screen x="72" y="27" width="1522" height="717" />
+    </state>
+    <state x="578" y="89" width="796" height="624" key="find.popup/72.27.1522.717@72.27.1522.717" timestamp="1627916220456" />
+    <state x="687" y="118" width="796" height="870" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1620644955000" />
+    <state x="899" y="105" width="1071" height="783" key="find.popup/72.27.2486.901@72.27.2486.901" timestamp="1621793974791" />
+    <state x="557" y="203" key="run.anything.popup" timestamp="1618333092632">
+      <screen x="72" y="27" width="1642" height="857" />
+    </state>
+    <state x="557" y="203" key="run.anything.popup/72.27.1642.857@72.27.1642.857" timestamp="1618333092632" />
+  </component>
+</project>

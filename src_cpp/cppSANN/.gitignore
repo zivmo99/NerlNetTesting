@@ -1,0 +1,8 @@
+/build
+/.idea
+.cproject
+.project
+.sconsign.dblite
+*.o
+!spec/*.o
+*.orig

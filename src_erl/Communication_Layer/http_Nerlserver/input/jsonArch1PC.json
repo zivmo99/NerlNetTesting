@@ -1,0 +1,86 @@
+{
+  "devices": [
+    {
+      "host": "192.168.0.100",
+      "entities": "serverAPI"
+    },
+    {
+      "host": "127.0.0.1",
+      "entities": "mainServer,r2,c1,s1,r1"
+    }
+  ],
+  "serverAPI": [
+    {
+      "host": "192.168.0.100",
+      "port": "8089",
+      "args": "ASDF,ASDF,ASDGFG"
+    }
+  ],
+  "mainServer": [
+    {
+      "host": "127.0.0.1",
+      "port": "8080",
+      "args": "ASDF,ASDF,ASDGFG"
+    }
+  ],
+  "workers": [
+    {
+      "name": "w1",
+      "args": "[5,2,1]@0.00000001@[0,2,0]@6@0@5@1"
+    }
+  ],
+  "clients": [
+    {
+      "name": "c1",
+      "port": "8081",
+      "workers": "w1"
+    }
+  ],
+  "sources": [
+    {
+      "name": "s1",
+      "port": "8082"
+    }
+  ],
+  "routers": [
+    {
+      "name": "r1",
+      "host": "127.0.0.1",
+      "port": "8083"
+    },
+    {
+      "name": "r2",
+      "host": "127.0.0.1",
+      "port": "8084"
+    }
+  ],
+  "connectionsMap":
+  {
+    "c1": {
+      "mainServer": "r1"
+    },
+
+    "s1": {
+      "mainServer": "r1",
+      "c1": "r1"
+    },
+    "mainServer": {
+      "c1": "r2",
+      "s1": "r2"
+    },
+    "r1": {
+      "mainServer": "r2",
+      "c1": "r1",
+      "s1": "r1"
+    },
+    "r2": {
+      "mainServer": "r2",
+      "c1": "r1",
+      "s1": "r1"
+    },
+    "serverAPI": {
+      "mainServer": "r2"
+    }
+  }
+
+}
